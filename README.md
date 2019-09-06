@@ -1,2 +1,2 @@
-# 2019-JS-Tools
+# jsResearch
 Exploring new Javascript tools
